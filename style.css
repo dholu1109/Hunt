@@ -77,8 +77,6 @@
 
 .container .search{
     position: absolute;
-    top: 40%;
-    left: 25%;
     width: 800px;
     height: 100px;
     border: 1px solid black;
